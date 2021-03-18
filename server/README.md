@@ -54,6 +54,15 @@ npm run db:init
 npm start
 ```
 
+### swagger documentation for REST API
+http://localhost:3000/api
+
+### GraphQL documentation for GraphQL
+http://localhost:3000/graphql
+
+### API DOCUMENTATION
+https://docs.amplication.com/docs/api
+
 ## Learn more
 
 You can learn more in the [Amplication documentation](https://docs.amplication.com/guides/getting-started).
