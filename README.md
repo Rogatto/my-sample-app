@@ -14,5 +14,8 @@ You can learn more in the [Amplication documentation](https://docs.amplication.c
 ### about my-sample-app application
 Generated apps include NestJS, Prisma, REST API, GraphQL API, a React admin UI, authentication, authorization, and logging.
 
-### swagger documentation
+### swagger documentation for REST API
 http://localhost:3000/api
+
+### GraphQL documentation for GraphQL
+http://localhost:3000/graphql
