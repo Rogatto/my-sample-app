@@ -10,6 +10,8 @@ It consists of two packages:
 
 You can learn more in the [Amplication documentation](https://docs.amplication.com/guides/getting-started).
 
+###
+To execute that: (https://docs.amplication.com/docs/getting-started/dev-env)
 
 ### about my-sample-app application
 Generated apps include NestJS, Prisma, REST API, GraphQL API, a React admin UI, authentication, authorization, and logging.
